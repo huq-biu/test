@@ -1,0 +1,16 @@
+[
+        {
+            "name": "HXZ",
+            "age": 26,
+            "sex": "boy",
+            "hobbies": ["sing songs", "play games", "read books"],
+            "love": "ZXH"
+        },
+        {
+            "name": "ZXH",
+            "age": 26,
+            "sex": "girl",
+            "hobbies": ["sing songs", "watch videos", "read books"],
+            "love": "HXZ"
+        }
+]
